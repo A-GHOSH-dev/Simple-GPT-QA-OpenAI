@@ -19,9 +19,15 @@
 ![image](https://github.com/A-GHOSH-dev/Simple-GPT-QA-OpenAI/assets/75447439/62dfa5ed-eeca-4faa-93b5-404443584448)
 
 
+### The flowchart/schematic
 
+![image](https://github.com/A-GHOSH-dev/Simple-GPT-QA-OpenAI/assets/75447439/e150baff-f399-4d61-9d39-b85b1a7ae096)
 
+![image](https://github.com/A-GHOSH-dev/Simple-GPT-QA-OpenAI/assets/75447439/82babb99-d0ca-4577-9dd4-a8d9ab594093)
 
+![image](https://github.com/A-GHOSH-dev/Simple-GPT-QA-OpenAI/assets/75447439/d4cc2710-a6bc-4b41-8bcf-15167b7a2c1f)
+
+![image](https://github.com/A-GHOSH-dev/Simple-GPT-QA-OpenAI/assets/75447439/1e3c881f-52ad-4e23-81cf-d736a85df1f6)
 
 
 
